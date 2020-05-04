@@ -267,7 +267,7 @@ section
 	height: 65px;
 	background: transparent;
 	text-align: center;
-	border: solid 2px #ff0e3b;
+	border: solid 2px #5EC3BF;
 	overflow: hidden;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -290,7 +290,7 @@ section
 	transform-origin: center center;
 	width: 130%;
 	height: 370%;
-	background: #ff0e3b;
+	background: #5EC3BF;
 	content: '';
 	z-index: 0;
 	-webkit-transition: all 600ms ease;
@@ -307,7 +307,7 @@ section
 	bottom: -15px;
 	width: 30px;
 	height: 30px;
-	background: #ff0e3b;
+	background: #5EC3BF;
 	content: '';
 	transform: rotate(-45deg);
 }
@@ -335,7 +335,7 @@ section
 }
 .button:hover a
 {
-	color: #ff0e3b;
+	color: #5EC3BF;
 }
 .button_2
 {
@@ -343,7 +343,7 @@ section
 	height: 65px;
 	background: transparent;
 	text-align: center;
-	border: solid 2px #ff0e3b;
+	border: solid 2px #5EC3BF;
 	overflow: hidden;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -370,7 +370,7 @@ section
 }
 .button_2:hover
 {
-	background: #ff0e3b;
+	background: #5EC3BF;
 }
 .section_subtitle
 {
@@ -397,9 +397,9 @@ section
 	top: 61px;
 	width: calc(100% - 314px);
 	height: 96px;
-	background: #190a49;
+	background: #8D8C8A;
 	z-index: 100;
-	border-bottom: solid 2px #ff0e3b;
+	border-bottom: solid 2px #5EC3BF;
 }
 .header_wrap
 {
@@ -432,7 +432,7 @@ section
 .main_nav ul li a:hover,
 .main_nav ul li.active a
 {
-	color: #ff0e3b;
+	color: #5EC3BF;
 }
 .header_social
 {
@@ -473,7 +473,7 @@ section
 }
 .social ul li a:hover i
 {
-	color: #ff0e3b;
+	color: #5EC3BF;
 }
 .fixed_header
 {
@@ -482,8 +482,8 @@ section
 	left: 0;
 	width: 100%;
 	height: 70px;
-	background: #190a49;
-	border-bottom: solid 2px #ff0e3b;
+	background: #8D8C8A;
+	border-bottom: solid 2px #5EC3BF;
 	z-index: 100;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
@@ -513,7 +513,7 @@ section
 }
 .hamburger:hover i
 {
-	color: #ff0e3b;
+	color: #5EC3BF;
 }
 
 /*********************************
@@ -572,7 +572,7 @@ section
 }
 .menu_close:hover
 {
-	color: #ff0e3b;
+	color: #5EC3BF;
 }
 .menu_nav ul li:not(:last-of-type)
 {
@@ -588,7 +588,7 @@ section
 }
 .menu_nav ul li a:hover
 {
-	color: #ff0e3b;
+	color: #5EC3BF;
 }
 .menu_social
 {
@@ -612,7 +612,7 @@ section
 	height: 371px;
 }
 .home_overlay
-{
+{/*
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -621,7 +621,7 @@ section
 	background-color: #7800ff;
 	background-image: linear-gradient(to right, rgba(120,0,255,0.34), rgba(255,14,59,0.34));
 	background: #7800ff;
-	background: linear-gradient(to right, rgba(120,0,255,0.34), rgba(255,14,59,0.34));
+	background: linear-gradient(to right, rgba(120,0,255,0.34), rgba(255,14,59,0.34));*/
 }
 .home_container
 {
@@ -665,7 +665,7 @@ section
 	left: 13px;
 	width: 74px;
 	height: 99px;
-	background: #190a49;
+	background: #8D8C8A;
 }
 .blog_post_date a
 {
@@ -719,7 +719,7 @@ section
 }
 .blog_post_title h3 a:hover
 {
-	color: #ff0e3b;
+	color: #5EC3BF;
 }
 .blog_post_info
 {
@@ -740,7 +740,7 @@ section
 }
 .author_name a:hover
 {
-	color: #ff0e3b;
+	color: #5EC3BF;
 }
 .blog_post_text
 {
@@ -754,7 +754,7 @@ section
 }
 .blog_post_button:hover
 {
-	background: #ff0e3b;
+	background: #5EC3BF;
 }
 .blog_post_button a
 {
@@ -782,7 +782,7 @@ section
 	width: 44px;
 	height: 44px;
 	border-radius: 50%;
-	background: #ff0e3b;
+	background: #5EC3BF;
 	text-align: center;
 }
 .page_nav ul li.active a
@@ -798,7 +798,7 @@ section
 }
 .page_nav ul li:not(.active) a:hover
 {
-	color: #ff0e3b;
+	color: #5EC3BF;
 }
 
 /*********************************
@@ -807,7 +807,7 @@ section
 
 .sidebar
 {
-	
+
 }
 .sidebar_title
 {
@@ -826,7 +826,7 @@ section
 	left: 0;
 	width: 100%;
 	height: 2px;
-	background: #ff0e3b;
+	background: #5EC3BF;
 	content: '';
 }
 .sidebar_search
@@ -871,9 +871,9 @@ section
 	font-weight: 400 !important;
 	font-style: italic;
 	color: #2c2c2c !important;
-} 
+}
 .sidebar_search_input:-ms-input-placeholder
-{ 
+{
 	font-size: 14px !important;
 	font-weight: 400 !important;
 	font-style: italic;
@@ -895,7 +895,7 @@ section
 	height: 100%;
 	border: none;
 	outline: none;
-	background: #ff0e3b;
+	background: #5EC3BF;
 	cursor: pointer;
 }
 .categories
@@ -918,7 +918,7 @@ section
 }
 .sidebar_list ul li a:hover
 {
-	color: #ff0e3b;
+	color: #5EC3BF;
 }
 .archives
 {
@@ -948,7 +948,7 @@ section
 	left: 24px;
 	width: calc(100% - 49px);
 	height: 135px;
-	background: #ff0e3b;
+	background: #5EC3BF;
 	padding-top: 33px;
 	padding-left: 27px;
 }
@@ -995,7 +995,7 @@ section
 
 .footer
 {
-	background: #190a49;
+	background: #8D8C8A;
 }
 .footer_content
 {
