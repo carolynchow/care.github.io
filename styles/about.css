@@ -269,7 +269,7 @@ section
 	height: 65px;
 	background: transparent;
 	text-align: center;
-	border: solid 2px #8FFAF8;
+	border: solid 2px #60CBC7;
 	overflow: hidden;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -292,7 +292,7 @@ section
 	transform-origin: center center;
 	width: 130%;
 	height: 320%;
-	background: #8FFAF8;
+	background: #60CBC7;
 	content: '';
 	z-index: 0;
 	-webkit-transition: all 600ms ease;
@@ -309,7 +309,7 @@ section
 	bottom: -15px;
 	width: 30px;
 	height: 30px;
-	background: #8FFAF8;
+	background: #60CBC7;
 	content: '';
 	transform: rotate(-45deg);
 }
@@ -337,7 +337,7 @@ section
 }
 .button:hover a
 {
-	color: #8FFAF8;
+	color: #60CBC7;
 }
 .button_2
 {
@@ -345,7 +345,7 @@ section
 	height: 65px;
 	background: transparent;
 	text-align: center;
-	border: solid 2px #8FFAF8;
+	border: solid 2px #60CBC7;
 	overflow: hidden;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -372,7 +372,7 @@ section
 }
 .button_2:hover
 {
-	background: #8FFAF8;
+	background: #60CBC7;
 }
 .section_subtitle
 {
@@ -401,7 +401,7 @@ section
 	height: 96px;
 	background: #807F82;
 	z-index: 100;
-	border-bottom: solid 2px #8FFAF8;
+	border-bottom: solid 2px #60CBC7;
 }
 .header_wrap
 {
@@ -434,7 +434,7 @@ section
 .main_nav ul li a:hover,
 .main_nav ul li.active a
 {
-	color: #8FFAF8;
+	color: #60CBC7;
 }
 .header_social
 {
@@ -475,7 +475,7 @@ section
 }
 .social ul li a:hover i
 {
-	color: #8FFAF8;
+	color: #60CBC7;
 }
 .fixed_header
 {
@@ -485,7 +485,7 @@ section
 	width: 100%;
 	height: 70px;
 	background: #807F82;
-	border-bottom: solid 2px #8FFAF8;
+	border-bottom: solid 2px #60CBC7;
 	z-index: 100;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
@@ -515,7 +515,7 @@ section
 }
 .hamburger:hover i
 {
-	color: #8FFAF8;
+	color: #60CBC7;
 }
 
 /*********************************
@@ -574,7 +574,7 @@ section
 }
 .menu_close:hover
 {
-	color: #8FFAF8;
+	color: #60CBC7;
 }
 .menu_nav ul li:not(:last-of-type)
 {
@@ -590,7 +590,7 @@ section
 }
 .menu_nav ul li a:hover
 {
-	color: #8FFAF8;
+	color: #60CBC7;
 }
 .menu_social
 {
@@ -682,9 +682,9 @@ section
 	width: 100%;
 
 	background-color: #807F82;/*
-	background-image: linear-gradient(to right, #7800ff, #8FFAF8);
+	background-image: linear-gradient(to right, #7800ff, #60CBC7);
 	background: #7800ff;
-	background: linear-gradient(to right, #7800ff, #8FFAF8);*/
+	background: linear-gradient(to right, #7800ff, #60CBC7);*/
 }
 .quote_content
 {
@@ -752,7 +752,7 @@ section
 {
 	font-size: 14px;
 	font-weight: 600;
-	color: #8FFAF8;
+	color: #60CBC7;
 	margin-top: 7px;
 }
 .trainer_content
