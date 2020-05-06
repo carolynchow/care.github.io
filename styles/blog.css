@@ -417,6 +417,8 @@ section
 	-o-transform: translateY(-50%);
 	transform: translateY(-50%);
 	left: 60px;
+	width:20%;
+
 }
 .main_nav ul li:not(:last-of-type)
 {
