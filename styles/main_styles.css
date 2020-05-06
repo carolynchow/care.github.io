@@ -422,6 +422,7 @@ section
 	-o-transform: translateY(-50%);
 	transform: translateY(-50%);
 	left: 60px;
+	width:30%;
 }
 .main_nav ul li:not(:last-of-type)
 {
