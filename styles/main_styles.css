@@ -402,9 +402,9 @@ section
 	top: 61px;
 	width: calc(100% - 314px);
 	height: 96px;
-	background: #8D8C8A;
+	/*background: #8D8C8A;*/
 	z-index: 100;
-	border-bottom: solid 2px #60CBC7;
+	/*border-bottom: solid 2px #60CBC7;*/
 }
 .header_wrap
 {
