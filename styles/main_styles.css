@@ -434,11 +434,14 @@ section
 	font-weight: 700;
 	color: #ffffff;
 	text-transform: uppercase;
+	border-bottom: 5px solid transparent;
+
 }
 .main_nav ul li a:hover,
 .main_nav ul li.active a
 {
 	color: #60CBC7;
+	border-bottom: 3px solid #60CBC7 ;
 }
 .header_social
 {
