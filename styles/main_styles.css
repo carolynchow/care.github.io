@@ -402,7 +402,7 @@ section
 	top: 61px;
 	width: calc(100% - 314px);
 	height: 96px;
-	/*background: #8D8C8A;*/
+	/*background: #1c1a1b;*/
 	z-index: 100;
 	/*border-bottom: solid 2px #53c2f5;*/
 }
@@ -491,7 +491,7 @@ section
 	left: 0;
 	width: 100%;
 	height: 70px;
-	background: #8D8C8A;
+	background: #1c1a1b;
 	border-bottom: solid 2px #53c2f5;
 	z-index: 100;
 	-webkit-transition: all 400ms ease;
@@ -816,7 +816,7 @@ section
 }
 .intro_box:first-child
 {
-	background: #8D8C8A;
+	background: #1c1a1b;
 }
 .intro_box:nth-child(2)
 {
@@ -862,7 +862,7 @@ section
 
 .about
 {
-	/*background: #8D8C8A;*/
+	/*background: #1c1a1b;*/
 	padding-top: 96px;
 	padding-bottom: 99px;
 	height:100%;
@@ -918,7 +918,7 @@ section
 
 .cta
 {
-	background: #8D8C8A;
+	background: #1c1a1b;
 }
 .cta_image
 {
@@ -1039,7 +1039,7 @@ section
 }
 .classes_slide_wrap:hover > div
 {
-	/*background: #8D8C8A;*/
+	/*background: #1c1a1b;*/
 	background: #53c2f5;
 }
 .classes_title h3
@@ -1083,7 +1083,7 @@ section
 }
 .pricing_box_alt
 {
-	background: #8D8C8A;
+	background: #1c1a1b;
 	border: none;
 }
 .pricing_title_box
@@ -1100,7 +1100,7 @@ section
 	right: 50%;
 	width: 100%;
 	height: 120%;
-	background: #8D8C8A;
+	background: #1c1a1b;
 	content: '';
 	z-index: 0;
 	-webkit-transform-origin: bottom right;
@@ -1124,7 +1124,7 @@ section
 	left: 50%;
 	width: 100%;
 	height: 120%;
-	background: #8D8C8A;
+	background: #1c1a1b;
 	content: '';
 	z-index: 0;
 	-webkit-transform-origin: bottom left;
@@ -1231,7 +1231,7 @@ section
 
 .footer
 {
-	background: #8D8C8A;
+	background: #1c1a1b;
 }
 .footer_content
 {
