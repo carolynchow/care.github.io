@@ -247,6 +247,7 @@ section
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
+	background-position-x: 40%;
 }
 .nopadding
 {
@@ -386,6 +387,7 @@ section
 .section_title
 {
 	margin-top: 8px;
+	
 }
 
 /*********************************
