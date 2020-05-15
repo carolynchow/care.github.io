@@ -14,7 +14,7 @@
 7. CTA
 8. Icon Boxes
 9. Footer
-
+10. Quote
 
 ******************************/
 
@@ -714,7 +714,7 @@ section
 }
 .class_box:hover > div
 {
-	background: #8D8C8A;
+	/*background: #8D8C8A;*/
 }
 .classes_title h3
 {
@@ -730,7 +730,7 @@ section
 }
 .class_box:hover .classes_title h3
 {
-	color: #ffffff;
+	/*color: #ffffff;*/
 }
 .classes_text
 {
@@ -912,4 +912,34 @@ section
 	font-weight: 700;
 	color: rgba(255,255,255,0.38);
 	text-transform: uppercase;
+}
+
+/*********************************
+10. Quote
+*********************************/
+
+.quote
+{
+	background: #ffffff;
+	padding-bottom: 97px;
+}
+.quote_content
+{
+	border-top: solid 1px #dfddeb;
+	padding-top: 87px;
+}
+.quote_content p
+{
+	font-size: 36px;
+	font-weight: 600;
+	font-style: italic;
+	color: #2c2c2c;
+	line-height: 1.4444;
+}
+.quote_author
+{
+	font-size: 18px;
+	font-weight: 700;
+	color: #2c2c2c;
+	margin-top: 42px;
 }
