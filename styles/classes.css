@@ -398,7 +398,7 @@ section
 	top: 61px;
 	width: calc(100% - 314px);
 	height: 96px;
-	background: #8D8C8A;
+	background: #1C1A1B ;
 	z-index: 100;
 	border-bottom: solid 2px #60CBC7;
 }
@@ -485,7 +485,7 @@ section
 	left: 0;
 	width: 100%;
 	height: 70px;
-	background: #8D8C8A;
+	background: #1C1A1B ;
 	border-bottom: solid 2px #60CBC7;
 	z-index: 100;
 	-webkit-transition: all 400ms ease;
@@ -714,7 +714,7 @@ section
 }
 .class_box:hover > div
 {
-	/*background: #8D8C8A;*/
+	/*background: #1C1A1B ;*/
 }
 .classes_title h3
 {
@@ -845,7 +845,7 @@ section
 
 .footer
 {
-	background: #8D8C8A;
+	background: #1C1A1B ;
 }
 .footer_content
 {
