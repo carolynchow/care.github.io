@@ -882,6 +882,14 @@ section
 	padding-top: 8px;
 }
 
+.learnMore
+{
+	/*background: #1c1a1b;*/
+	padding-top: 40px;
+	padding-bottom: 40px;
+	height:100%;
+}
+
 /*********************************
 8. Quote
 *********************************/
