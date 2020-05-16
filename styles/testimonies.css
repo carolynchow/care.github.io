@@ -648,6 +648,7 @@ section
 	background: #ffffff;
 	/*padding-top: 100px;*/
 	padding-bottom: 99px;
+	width: 100%;
 }
 .class_box
 {
@@ -846,6 +847,7 @@ section
 .footer
 {
 	background: #1C1A1B ;
+	width: 100%
 }
 .footer_content
 {
