@@ -164,14 +164,31 @@
 
 							</div>
 							<div class="contact_form_container">
-								<form action="mailto:carolyn@careforfitness.co" class="contact_form">
+
+								<form method="post" action="contact.php" class="contact_form">
+
 									<div class="row contact_form_row">
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Your name" required="required"></div>
-										<div class="col-md-6"><input type="email" class="contact_input" placeholder="Your email" required="required"></div>
-										<div class="col-12"><input type="text" class="contact_input" placeholder="Subject"></div>
-										<div class="col-12"><textarea class="contact_input contact_textarea" placeholder="Message" required="required"></textarea></div>
+
+										<div class="col-md-6">
+											<input id="Name" type="text" class="contact_input" placeholder="Your name" required="required">
+										</div>
+
+										<div class="col-md-6">
+											<input id="Email" type="email" class="contact_input" placeholder="Your email" required="required">
+										</div>
+
+										<div class="col-12">
+											<input id="Message" type="text" class="contact_input" placeholder="Subject">
+										</div>
+
+										<div class="col-12">
+											<textarea class="contact_input contact_textarea" placeholder="Message" required="required"></textarea>
+										</div>
+
 									</div>
-									<button class="contact_button">send message</button>
+
+									<button class="contact_button" type="submit">send message</button>
+
 								</form>
 							</div>
 						</div>
