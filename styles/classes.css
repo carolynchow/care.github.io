@@ -377,7 +377,8 @@ section
 {
 	font-size: 14px;
 	font-weight: 700;
-	color: #909090;
+	/*color: #909090;*/
+	color: white;
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
 	line-height: 1.2;
