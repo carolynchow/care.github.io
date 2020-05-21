@@ -675,7 +675,7 @@ section
 .class_image
 {
 	position: absolute;
-	width: 50%;
+	width: 40%;
 	left: 50%;
 
 	-webkit-transform: translateX(-50%);
