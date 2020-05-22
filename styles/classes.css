@@ -674,7 +674,7 @@ section
 }
 .class_image
 {
-	position: absolute;
+	position: relative;
 	width: 40%;
 	left: 50%;
 
