@@ -788,6 +788,13 @@ section
 	background: transparent;
 	color: #60CBC7;
 }
+.paragraph
+{
+	padding-bottom: 5px;
+	color:#2C2C2C
+}
+
+
 .contact_map_container
 {
 	height: 100%;
