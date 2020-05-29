@@ -1082,6 +1082,9 @@ section
 	margin-top: 25px;
 	padding-right: 75px;
 	color: #161616;
+  list-style-type: circle;
+
+
 }
 .about_button
 {
