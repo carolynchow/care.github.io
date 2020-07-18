@@ -736,6 +736,8 @@ section
 .classes_text
 {
 	margin-top: 25px;
+	height: 120px;
+	overflow: auto;
 }
 .class_box.new_class > div .classes_text p
 {
