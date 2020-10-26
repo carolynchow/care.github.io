@@ -431,7 +431,8 @@ section
 {
 	font-size: 14px;
 	font-weight: 700;
-	color: #2C2C2C;
+	/*color: #2C2C2C;*/
+	color: #ffffff;
 	text-transform: uppercase;
 	border-bottom: 5px solid transparent;
 
