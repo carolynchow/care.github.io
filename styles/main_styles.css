@@ -46,6 +46,7 @@ body
 	font-weight: 400;
 	background: #FFFFFF;
 	color: #a5a5a5;
+
 }
 div
 {
@@ -402,9 +403,7 @@ section
 	top: 61px;
 	width: calc(100% - 314px);
 	height: 96px;
-	/*background: #1c1a1b;*/
 	z-index: 100;
-	/*border-bottom: solid 2px #53c2f5;*/
 }
 .header_wrap
 {
@@ -432,7 +431,7 @@ section
 {
 	font-size: 14px;
 	font-weight: 700;
-	color: #ffffff;
+	color: #2C2C2C;
 	text-transform: uppercase;
 	border-bottom: 5px solid transparent;
 
@@ -672,7 +671,8 @@ section
 }
 .home_title
 {
-	margin-top: 9px;
+	/*margin-top: 9px;*/
+	bottom: 100px;
 }
 .home_title h1
 {
