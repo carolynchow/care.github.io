@@ -1065,3 +1065,66 @@ section
 	color: rgba(255,255,255,0.38);
 	text-transform: uppercase;
 }
+
+/*********************************
+6. About
+*********************************/
+
+.about
+{
+	background: #ffffff;
+}
+.about_content
+{
+	/*padding-top: 125px;*/
+	padding-top: 70px;
+	padding-bottom: 62px;
+}
+.about_text
+{
+	margin-top: 25px;
+	padding-right: 75px;
+}
+.about_button
+{
+	margin-top: 36px;
+}
+.about_image
+{
+	position: absolute;
+	height: 100%;
+	/*object-fit: cover;*/
+
+}
+.about_image > img
+{
+	max-width: none;
+	height: 100%;
+}
+
+
+.quote
+{
+	background: #ffffff;
+	padding-bottom: 97px;
+}
+.quote_content
+{
+	border-top: solid 1px #dfddeb;
+	padding-top: 87px;
+}
+.quote_content p
+{
+	font-size: 36px;
+	font-weight: 600;
+	font-style: italic;
+	color: #2c2c2c;
+	line-height: 1.4444;
+}
+.quote_author
+{
+	font-size: 18px;
+	font-weight: 700;
+	color: #2c2c2c;
+	margin-top: 42px;
+}
